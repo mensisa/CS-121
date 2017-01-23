@@ -1,10 +1,10 @@
 import time
 
-a = int(format(time.time() * 10000 % 100, ".0f"))
+num = int(format(time.time() * 10000 % 100, ".0f"))
 
-while (a > 90) | (a < 65):
-	a = int(format(time.time() * 10000 % 100, ".0f"))
+while (num > 90) | (num < 65):
+	num = int(format(time.time() * 10000 % 100, ".0f"))
 	
-b = chr(a)
+letter = chr(num)
 
-print(b)
+print(letter)
