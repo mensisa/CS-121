@@ -1,16 +1,16 @@
 import random
 import turtle
 
-# p1
+#p1
 x1 = 200
 y1 = 200
-# p2
+#p2
 x2 = 200
 y2 = -200
-# p3
+#p3
 x3 = -200
 y3 = -200
-# p4
+#p4
 x4 = -200
 y4 = 200
 
@@ -20,16 +20,14 @@ y_min = min(y1, y2, y3, y4)
 y_max = max(y1, y2, y3, y4)
 x = random.randint(x_min, x_max)
 y = random.randint(y_min, y_max)
-turtle.tracer(0)
+turtle.speed(0)
 
-n = 1
-list = [0]
+n = 2
+list = [1, 3]
 while n < 30000:
-    if n % 1000 == 0:
-        turtle.update()
     p = random.randint(1, 4)
     list.append(p)
-    while list[n - 1] == p:
+    while abs(list[n - 1] - p) != 2 or abs(list[n - 2] - p) != 2 or abs(list[n - 1] - p) != 0 or abs(list[n - 2] - p) != 0:
         p = random.randint(1, 4)
         list[n] = p
     else:

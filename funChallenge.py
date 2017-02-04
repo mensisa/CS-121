@@ -17,14 +17,12 @@ y_min = min(y1, y2, y3)
 y_max = max(y1, y2, y3)
 x = random.randint(x_min, x_max)
 y = random.randint(y_min, y_max)
-turtle.speed(0)
-turtle.penup()
-turtle.goto(x, y)
-turtle.pendown()
+turtle.tracer(0)
 
-n = 0
-while n < 10000:
+for i in range(20000):
     p = random.randint(1, 3)
+    if i % 1000 == 0:
+        turtle.update()
     if p == 1:
         xTarget = x1
         yTarget = y1
@@ -41,5 +39,4 @@ while n < 10000:
     turtle.goto(x, y)
     turtle.pendown()
     turtle.forward(1)
-    n += 1
 turtle.done()
