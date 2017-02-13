@@ -19,3 +19,4 @@ if count > 0:
           "\nThe average is", sum / (count - 1))
 else:
     print("You didn't enter any number")
+

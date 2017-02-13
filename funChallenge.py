@@ -17,6 +17,9 @@ y_min = min(y1, y2, y3)
 y_max = max(y1, y2, y3)
 x = random.randint(x_min, x_max)
 y = random.randint(y_min, y_max)
+turtle.penup()
+turtle.goto(x, y)
+turtle.pendown()
 turtle.tracer(0)
 
 for i in range(20000):
@@ -40,3 +43,4 @@ for i in range(20000):
     turtle.pendown()
     turtle.forward(1)
 turtle.done()
+
