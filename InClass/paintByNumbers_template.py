@@ -55,7 +55,7 @@ def placeSquare(x,y,Length,color):
     is called.
     """
     turtle.penup()
-    turtle.goto(x, y)
+    turtle.goto(x - 300, y)
     turtle.pendown()
     turtle.color(color)
     drawSquare(Length)
@@ -155,7 +155,7 @@ print out:  red white blue
 # print(numberToColor(2)+" " + numberToColor(1) + " " +numberToColor(5))
 
 
-def paintByNumber(n,length,row):
+def paintByNumber(n,length,row,col = 1):
     """This is the final function that takes a number, representing a sequence
     of colors, and draws the corresponding row of squares of the specified
     length.  I suggest initializing a variable to hold the column number, and
@@ -166,13 +166,13 @@ def paintByNumber(n,length,row):
             use placeSquareRowCol to place the square
             increase the column number
     """
-    col = 1
     while n > 0:
         colorNum, n = peelNumber(n)
         color = numberToColor(colorNum)
         placeSquareRowCol(row, col, length, color)
         col += 1
     pass
+
 
 """Uncomment the following lines to test the paintByNumber function.  It should
 replicate the same two by two grid we made when testing placeSquareRowCol.
@@ -190,43 +190,43 @@ replicate the same two by two grid we made when testing placeSquareRowCol.
 turtle.speed(0)
 turtle.tracer(0)
 
-# paintByNumber(777711117777,15,1)
-# paintByNumber(177711117771,15,2)
-# paintByNumber(115551155511,15,3)
-# paintByNumber(335555555533,15,4)
-# paintByNumber(333555555333,15,5)
-# paintByNumber(332565565233,15,6)
-# paintByNumber(222255552222,15,7)
-# paintByNumber(122252252221,15,8)
-# paintByNumber(111122252211,15,9)
-# paintByNumber(113333333111,15,10)
-# paintByNumber(177773333771,15,11)
-# paintByNumber(333733377371,15,12)
-# paintByNumber(133393337371,15,13)
-# paintByNumber(111393377711,15,14)
-# paintByNumber(122222222111,15,15)
-# paintByNumber(111122221111,15,16)
+paintByNumber(777711117777,15,1)
+paintByNumber(177711117771,15,2)
+paintByNumber(115551155511,15,3)
+paintByNumber(335555555533,15,4)
+paintByNumber(333555555333,15,5)
+paintByNumber(332565565233,15,6)
+paintByNumber(222255552222,15,7)
+paintByNumber(122252252221,15,8)
+paintByNumber(111122252211,15,9)
+paintByNumber(113333333111,15,10)
+paintByNumber(177773333771,15,11)
+paintByNumber(333733377371,15,12)
+paintByNumber(133393337371,15,13)
+paintByNumber(111393377711,15,14)
+paintByNumber(122222222111,15,15)
+paintByNumber(111122221111,15,16)
 
-paintByNumber(11111119111119111111,15,1)
-paintByNumber(11191191911191911911,15,2)
-paintByNumber(11919911911911919191,15,3)
-paintByNumber(19119911999911991191,15,4)
-paintByNumber(19111111111111111191,15,5)
-paintByNumber(19111111111111111119,15,6)
-paintByNumber(91111111111111111119,15,7)
-paintByNumber(91111111111111111119,15,8)
-paintByNumber(91111111111111111119,15,9)
-paintByNumber(91111111111111111119,15,10)
-paintByNumber(91111111111119999119,15,11)
-paintByNumber(91111111111191191919,15,12)
-paintByNumber(91999111111111991119,15,13)
-paintByNumber(91911991111111111119,15,14)
-paintByNumber(91911119111119119119,15,15)
-paintByNumber(19111111911111111191,15,16)
-paintByNumber(11111111191111111191,15,17)
-paintByNumber(11111111191911119191,15,18)
-paintByNumber(11111111119199991911,15,19)
-paintByNumber(1111111111111111111111,15,20)
+paintByNumber(11111119111119111111,15,1,18)
+paintByNumber(11191191911191911911,15,2,18)
+paintByNumber(11919911911911919191,15,3,18)
+paintByNumber(19119911999911991191,15,4,18)
+paintByNumber(19111111111111111191,15,5,18)
+paintByNumber(19111111111111111119,15,6,18)
+paintByNumber(91111111111111111119,15,7,18)
+paintByNumber(91111111111111111119,15,8,18)
+paintByNumber(91111111111111111119,15,9,18)
+paintByNumber(91111111111111111119,15,10,18)
+paintByNumber(91111111111119999119,15,11,18)
+paintByNumber(91111111111191191919,15,12,18)
+paintByNumber(91999111111111991119,15,13,18)
+paintByNumber(91911991111111111119,15,14,18)
+paintByNumber(91911119111119119119,15,15,18)
+paintByNumber(19111111911111111191,15,16,18)
+paintByNumber(11111111191111111191,15,17,18)
+paintByNumber(11111111191911119191,15,18,18)
+paintByNumber(11111111119199991911,15,19,18)
+paintByNumber(1111111111111111111111,15,20,18)
 turtle.hideturtle()
 turtle.update()
 
