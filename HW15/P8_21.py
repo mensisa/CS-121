@@ -24,7 +24,7 @@ class Complex:
         if self.__b > 0:
             return "(" + str(self.__a) + " + " + str(self.__b) + "i)"
         elif self.__b == 0:
-            return self.__a
+            return str(self.__a)
         else:
             return "(" + str(self.__a) + " - " + str(abs(self.__b)) + "i)"
 
