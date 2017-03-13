@@ -3,10 +3,7 @@ def ispassword(p):
     for i in p:
         if i.isdigit():
             num_count += 1
-    if len(p) >= 8 and p.isalnum() and num_count >= 2:
-        return True
-    else:
-        return False
+    return len(p) >= 8 and p.isalnum() and num_count >= 2
 
 
 def main():
