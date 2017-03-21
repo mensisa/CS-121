@@ -10,7 +10,7 @@ def main():
     items = num.split()
     list1 = [eval(x) for x in items]
     list2 = eliminateDuplicates(list1)
-    string = 0
+    string = ""
     for x in list2:
         string += str(x) + " "
     print("The distinct numbers are: " + string)
