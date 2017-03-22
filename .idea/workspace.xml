@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98996a42-15e5-44dd-9455-250bf517076a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HW16/tenserflow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HW17/P10_11.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HW17/P10_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/Final/P1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/Final/P2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/Final/P3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/Final/P4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/Final/P5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/Final/P6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InClass/Final/P7.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EC/ComplexLinearEquation.py" afterPath="$PROJECT_DIR$/EC/ComplexLinearEquation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HW16/P10_13.py" afterPath="$PROJECT_DIR$/HW16/P10_13.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HW16/P10_5.py" afterPath="$PROJECT_DIR$/HW16/P10_5.py" />
     </list>
     <ignored path="CS121.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +43,8 @@
     <SUITE FILE_PATH="coverage/CS121$paintByNumbers_template.coverage" NAME="paintByNumbers_template Coverage Results" MODIFIED="1487385312199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$P8_7.coverage" NAME="P8_7 Coverage Results" MODIFIED="1488414696550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW14" />
     <SUITE FILE_PATH="coverage/CS121$ComplexLinearEquation.coverage" NAME="ComplexLinearEquation Coverage Results" MODIFIED="1489525737801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EC" />
-    <SUITE FILE_PATH="coverage/CS121$P2.coverage" NAME="P2 Coverage Results" MODIFIED="1485991440009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$P6_17.coverage" NAME="P6_17 Coverage Results" MODIFIED="1487288159445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW10" />
+    <SUITE FILE_PATH="coverage/CS121$P2.coverage" NAME="P2 Coverage Results" MODIFIED="1490080561846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Final" />
     <SUITE FILE_PATH="coverage/CS121$barnslay.coverage" NAME="barnslay Coverage Results" MODIFIED="1487030564924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$concentration_template.coverage" NAME="concentration_template Coverage Results" MODIFIED="1489621295948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$chaosGame.coverage" NAME="chaosGame Coverage Results" MODIFIED="1486176716129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
@@ -52,7 +53,8 @@
     <SUITE FILE_PATH="coverage/CS121$P6_5.coverage" NAME="P6_5 Coverage Results" MODIFIED="1487050733330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW9" />
     <SUITE FILE_PATH="coverage/CS121$Tally.coverage" NAME="Tally Coverage Results" MODIFIED="1488409855722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/fun" />
     <SUITE FILE_PATH="coverage/CS121$V2_14.coverage" NAME="V2_14 Coverage Results" MODIFIED="1487052661707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/fun" />
-    <SUITE FILE_PATH="coverage/CS121$P1.coverage" NAME="P1 Coverage Results" MODIFIED="1485991315690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
+    <SUITE FILE_PATH="coverage/CS121$P7.coverage" NAME="P7 Coverage Results" MODIFIED="1490132555403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Final" />
+    <SUITE FILE_PATH="coverage/CS121$P1.coverage" NAME="P1 Coverage Results" MODIFIED="1490080185356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Final" />
     <SUITE FILE_PATH="coverage/CS121$P4_3.coverage" NAME="P4_3 Coverage Results" MODIFIED="1485214055492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW5" />
     <SUITE FILE_PATH="coverage/CS121$C5_12.coverage" NAME="C5_12 Coverage Results" MODIFIED="1485992718203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$C5_29.coverage" NAME="C5_29 Coverage Results" MODIFIED="1485822899786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
@@ -64,11 +66,12 @@
     <SUITE FILE_PATH="coverage/CS121$C5_28.coverage" NAME="C5_28 Coverage Results" MODIFIED="1485993517386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$P6_21.coverage" NAME="P6_21 Coverage Results" MODIFIED="1487475728926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW11" />
     <SUITE FILE_PATH="coverage/CS121$P5_15.coverage" NAME="P5_15 Coverage Results" MODIFIED="1486163271189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW7" />
+    <SUITE FILE_PATH="coverage/CS121$P6.coverage" NAME="P6 Coverage Results" MODIFIED="1490083775379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Final" />
     <SUITE FILE_PATH="coverage/CS121$P4_1.coverage" NAME="P4_1 Coverage Results" MODIFIED="1485213250225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW5" />
     <SUITE FILE_PATH="coverage/CS121$EC_Strings_1.coverage" NAME="EC_Strings_1 Coverage Results" MODIFIED="1488840556882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EC" />
     <SUITE FILE_PATH="coverage/CS121$P6_9.coverage" NAME="P6_9 Coverage Results" MODIFIED="1487287315528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW10" />
     <SUITE FILE_PATH="coverage/CS121$EC10_7.coverage" NAME="EC10_7 Coverage Results" MODIFIED="1488936657705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EC" />
-    <SUITE FILE_PATH="coverage/CS121$P3.coverage" NAME="P3 Coverage Results" MODIFIED="1485991303037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
+    <SUITE FILE_PATH="coverage/CS121$P3.coverage" NAME="P3 Coverage Results" MODIFIED="1490081657824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Final" />
     <SUITE FILE_PATH="coverage/CS121$EC10_1.coverage" NAME="EC10_1 Coverage Results" MODIFIED="1488936621335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EC" />
     <SUITE FILE_PATH="coverage/CS121$P8_21.coverage" NAME="P8_21 Coverage Results" MODIFIED="1489010618628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW15" />
     <SUITE FILE_PATH="coverage/CS121$P10_11.coverage" NAME="P10_11 Coverage Results" MODIFIED="1489608344523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW17" />
@@ -76,6 +79,7 @@
     <SUITE FILE_PATH="coverage/CS121$P6_3.coverage" NAME="P6_3 Coverage Results" MODIFIED="1487286294875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW10" />
     <SUITE FILE_PATH="coverage/CS121$P4_7.coverage" NAME="P4_7 Coverage Results" MODIFIED="1485215742731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW5" />
     <SUITE FILE_PATH="coverage/CS121$C4_16.coverage" NAME="C4_16 Coverage Results" MODIFIED="1485385907292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
+    <SUITE FILE_PATH="coverage/CS121$P5.coverage" NAME="P5 Coverage Results" MODIFIED="1490082316298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Final" />
     <SUITE FILE_PATH="coverage/CS121$P10_23.coverage" NAME="P10_23 Coverage Results" MODIFIED="1489439925968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW16" />
     <SUITE FILE_PATH="coverage/CS121$chaoGame2.coverage" NAME="chaoGame2 Coverage Results" MODIFIED="1487030531210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$E2.coverage" NAME="E2 Coverage Results" MODIFIED="1488409138093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Exam2" />
@@ -91,11 +95,11 @@
     <SUITE FILE_PATH="coverage/CS121$P5_1.coverage" NAME="P5_1 Coverage Results" MODIFIED="1486160192502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW7" />
     <SUITE FILE_PATH="coverage/CS121$C8_6.coverage" NAME="C8_6 Coverage Results" MODIFIED="1488239623428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
     <SUITE FILE_PATH="coverage/CS121$P6_13.coverage" NAME="P6_13 Coverage Results" MODIFIED="1487050771065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW9" />
-    <SUITE FILE_PATH="coverage/CS121$tenserflow.coverage" NAME="tenserflow Coverage Results" MODIFIED="1490045940500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW16" />
+    <SUITE FILE_PATH="coverage/CS121$tenserflow.coverage" NAME="tenserflow Coverage Results" MODIFIED="1490080047022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW16" />
     <SUITE FILE_PATH="coverage/CS121$P5_13.coverage" NAME="P5_13 Coverage Results" MODIFIED="1486161153823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW7" />
     <SUITE FILE_PATH="coverage/CS121$C5_4.coverage" NAME="C5_4 Coverage Results" MODIFIED="1485820263189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/.idea" />
     <SUITE FILE_PATH="coverage/CS121$P8_3.coverage" NAME="P8_3 Coverage Results" MODIFIED="1488411402885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW15" />
-    <SUITE FILE_PATH="coverage/CS121$P4.coverage" NAME="P4 Coverage Results" MODIFIED="1485991399503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass" />
+    <SUITE FILE_PATH="coverage/CS121$P4.coverage" NAME="P4 Coverage Results" MODIFIED="1490081943837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InClass/Final" />
     <SUITE FILE_PATH="coverage/CS121$extra.coverage" NAME="extra Coverage Results" MODIFIED="1485590357739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -107,24 +111,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="P10_5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HW16/P10_5.py">
+      <file leaf-file-name="P5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InClass/Final/P5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="270">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tenserflow.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HW16/tenserflow.py">
+      <file leaf-file-name="P6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InClass/Final/P6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3240">
-              <caret line="120" column="114" lean-forward="true" selection-start-line="120" selection-start-column="114" selection-end-line="120" selection-end-column="114" />
-              <folding>
-                <element signature="e#589#612#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InClass/Final/P7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1097">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InClass/Final/P4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InClass/Final/P3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,13 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HW9/P6_1.py" />
-        <option value="$PROJECT_DIR$/HW7/P5_28.py" />
-        <option value="$PROJECT_DIR$/HW9/P6_13.py" />
-        <option value="$PROJECT_DIR$/InClass/chaoGame2.py" />
-        <option value="$PROJECT_DIR$/HW9/P6_5.py" />
-        <option value="$PROJECT_DIR$/InClass/fun/V2_14.py" />
-        <option value="$PROJECT_DIR$/InClass/C6_24.py" />
         <option value="$PROJECT_DIR$/HW10/P6_3.py" />
         <option value="$PROJECT_DIR$/HW10/P6_9.py" />
         <option value="$PROJECT_DIR$/HW10/P6_17.py" />
@@ -211,6 +236,13 @@
         <option value="$PROJECT_DIR$/HW17/P10_11.py" />
         <option value="$PROJECT_DIR$/InClass/concentration_template.py" />
         <option value="$PROJECT_DIR$/HW16/tenserflow.py" />
+        <option value="$PROJECT_DIR$/InClass/Final/P1.py" />
+        <option value="$PROJECT_DIR$/InClass/Final/P2.py" />
+        <option value="$PROJECT_DIR$/InClass/Final/P3.py" />
+        <option value="$PROJECT_DIR$/InClass/Final/P4.py" />
+        <option value="$PROJECT_DIR$/InClass/Final/P5.py" />
+        <option value="$PROJECT_DIR$/InClass/Final/P6.py" />
+        <option value="$PROJECT_DIR$/InClass/Final/P7.py" />
       </list>
     </option>
   </component>
@@ -225,6 +257,9 @@
     <option name="y" value="-11" />
     <option name="width" value="2182" />
     <option name="height" value="1462" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -241,7 +276,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -265,6 +300,60 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="InClass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS121" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS121" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InClass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idlex-1.13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS121" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS121" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InClass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS121" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS121" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InClass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -382,7 +471,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,101 +481,102 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\yi\Dropbox\CS121" />
-      <recent name="C:\Users\yi\Dropbox\CS121\InClass\" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yi\Dropbox\CS121\HW8" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yi\Dropbox\CS121\InClass" />
+      <recent name="C:\Users\yi\Dropbox\CS121" />
+      <recent name="C:\Users\yi\Dropbox\CS121\InClass\" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.tenserflow">
-    <configuration default="false" name="P10_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.P7">
+    <configuration default="false" name="P3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InClass/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS121" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW16/P10_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InClass/Final/P3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="P10_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InClass/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS121" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW16/P10_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InClass/Final/P4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="P10_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InClass/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS121" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW17/P10_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InClass/Final/P5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="concentration_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InClass/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS121" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InClass/concentration_template.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InClass/Final/P6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="tenserflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="P7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InClass/Final" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS121" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW16/tenserflow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InClass/Final/P7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -706,19 +796,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.P10_5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.P10_13" />
-      <item index="2" class="java.lang.String" itemvalue="Python.P10_11" />
-      <item index="3" class="java.lang.String" itemvalue="Python.concentration_template" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tenserflow" />
+      <item index="0" class="java.lang.String" itemvalue="Python.P3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.P4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.P5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.P6" />
+      <item index="4" class="java.lang.String" itemvalue="Python.P7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tenserflow" />
-        <item index="1" class="java.lang.String" itemvalue="Python.concentration_template" />
-        <item index="2" class="java.lang.String" itemvalue="Python.P10_11" />
-        <item index="3" class="java.lang.String" itemvalue="Python.P10_13" />
-        <item index="4" class="java.lang.String" itemvalue="Python.P10_5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.P7" />
+        <item index="1" class="java.lang.String" itemvalue="Python.P6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.P5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.P4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.P3" />
       </list>
     </recent_temporary>
   </component>
@@ -742,13 +832,13 @@
     <frame x="-11" y="-11" width="2182" height="1462" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14027777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28863868" sideWeight="0.50417536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27237654" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27083334" sideWeight="0.49582464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -803,55 +893,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HW9/P6_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW9/P6_13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InClass/fun/V2_14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW9/P6_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW1/P2_15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW10/P6_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW10/P6_17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HW10/P6_9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1059,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,7 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,9 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="e#345#358#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,7 +1143,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,7 +1164,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,7 +1171,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,7 +1178,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1153,7 +1185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1167,11 +1198,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HW16/tenserflow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3240">
-          <caret line="120" column="114" lean-forward="true" selection-start-line="120" selection-start-column="114" selection-end-line="120" selection-end-column="114" />
+        <state relative-caret-position="3186">
+          <caret line="120" column="114" lean-forward="false" selection-start-line="120" selection-start-column="114" selection-end-line="120" selection-end-column="114" />
           <folding>
-            <element signature="e#589#612#0" expanded="true" />
+            <element signature="e#589#612#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/Final/P1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/Final/P2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/Final/P6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/Final/P4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/Final/P5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/Final/P3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InClass/Final/P7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1097">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
